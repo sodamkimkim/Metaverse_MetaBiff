@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Market
+  - MarketItemDetail
+  - Bag
+  - Wearable
+  - Undefined
+  - Head
+  - Clothes
+  - Hands
+  - Pet
+  - UI_NowWearing
+  - Canvas_Player
+  - InventoryManager
+  - NowWearingManager
+  - ScreenSide_Top
+  - ScreenSide_Bottom
+  - ScreenSide_Left
+  - ScreenSide_Right
+  - MapCam
+  - SmallMapCam
+  - Canvas_NowWearing
+  - PlayerItems
+  - Food
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Market
+  - NavMesh
+  - NotWalkable
+  - InMap
+  - Jumpable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
