@@ -21,26 +21,31 @@
 > + 지원 플랫폼 : PC<br/>
 > + 디자인 : 한승주, 박재현 / 프로그래밍 : 김소담<br/>
 ## DB
-  ![DB_Table 구조](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/88101ee2-a3da-44b4-924f-f9897e48133b)
+![db](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/3d1b5b4d-b894-4f00-a88f-6a6b05209f06)
 
 ## 캐릭터 고르기
-![4 캐릭터고르기](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/ecfa337e-18ff-4d8c-b56f-a422b12c2ef5)
+![캐릭터고르기](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/897ce8f1-2cfd-41d8-8771-4d9518b7fa35)
+
 ## 캐릭터 & 카메라 Moving
-![달리기](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/17f540c7-4d8a-41a6-9455-c6dba1c93c3d)
-![camYrot로 왼쪽풍경보기](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/e88b0e8b-30e8-45d8-b077-ce7cf6b4c329)
-![camXrot로 풍경보기](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/4f9736a3-0977-46e7-bd4c-0fe9e6ef7ced)
-![제자리점프와 forward점프](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/0bbccb98-c441-43ec-8076-c511a9269c03)
+![캐릭터 카메라moving1](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/98e03731-21e3-43d2-96f6-0e3766671542)
+![캐릭터 카메라moving2](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/c0a4779a-78c5-4e46-b658-902693c3ad77)
+
 ## UI Stack 관리
-![UI관리-Stack OrderIndex](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/2987a63e-abef-4b0c-ab75-9ef05f174c48)
+![UIStack관리](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/564e466b-9f34-46f6-a296-2e58b04d1ec7)
+
 ## 인벤토리 & 아이템 장착 & 마켓
-![6 인벤토리](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/e401bd40-5f4a-4d69-b1b1-49b4446d6a5b)
-![7 아이템장착상태창](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/8a5e6159-a28e-4ae8-b09e-87d39839baf1)
-![9 0돈부족](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/a615684f-c2be-4b70-b316-dfbc5d1d88a0)
+![인벤토리 아이템장착 마켓1](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/b56d7b30-70f6-4480-833f-1d24b3fb6e02)
+![인벤토리 아이템장착 마켓2](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/45abbb3e-95c9-48c3-b983-579660d89b17)
+![마켓buying](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/73a56d9e-fb72-4657-97d7-7ff4866810ec)
+
 ## 채팅
-![12 chat](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/4920fee5-deac-45d4-9857-324c05d80e72)
+![chat](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/4b7b5c6d-4f82-44a6-8fc1-f45cccb9c5d4)
+
 ## 회원가입, 캐릭터 삭제
-![2 회원가입](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/322daf51-a72c-4413-8252-6c696840e271)
-![5 3 캐릭터 삭제](https://github.com/sodamkimkim/Biff_UnityMetabus/assets/100888879/e8eca167-de44-4deb-8e54-7d1de7bac488)
+![캐릭터만들기](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/889cb64a-8065-484d-9df9-0a3f386023b7)
+![회원가입, 캐릭터만들기](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/abbbae1f-789f-4fd2-a618-714ab7ff6509)
+
+## Commits
 
 ![Commits1](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/06fd9ac8-29a6-45f0-8da5-57ad45a9d84a)
 
