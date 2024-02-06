@@ -45,7 +45,7 @@
 ![캐릭터만들기](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/889cb64a-8065-484d-9df9-0a3f386023b7)
 ![회원가입, 캐릭터만들기](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/abbbae1f-789f-4fd2-a618-714ab7ff6509)
 
-## Commits
+## Commits ; git lfs 제거 이슈로 repository 재 생성하여 이전 repository commits 남겨둡니다.
 
 ![Commits1](https://github.com/sodamkimkim/MetaBiff_UnityMetaverse/assets/100888879/06fd9ac8-29a6-45f0-8da5-57ad45a9d84a)
 
